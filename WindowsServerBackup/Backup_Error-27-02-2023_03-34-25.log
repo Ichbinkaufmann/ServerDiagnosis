@@ -1,0 +1,6 @@
+3月 06, 2023 3:20:15 午後 com.example.logviewapp.controller.MainActionController getHomePage
+INFO: My first log
+3月 06, 2023 3:20:22 午後 com.example.logviewapp.controller.MainActionController getHomePage
+INFO: My first log
+3月 06, 2023 3:35:29 午後 com.example.logviewapp.controller.MainActionController throwNoSuchMethodError
+INFO: My first log
